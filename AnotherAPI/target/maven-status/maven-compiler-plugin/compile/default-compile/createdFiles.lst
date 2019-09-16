@@ -1,0 +1,5 @@
+com\example\anotherapi\AnotherApiApplication.class
+com\example\anotherapi\models\PostResponse.class
+com\example\anotherapi\controller\WebController.class
+com\example\anotherapi\models\PostRequest.class
+com\example\anotherapi\models\SampleResponse.class
